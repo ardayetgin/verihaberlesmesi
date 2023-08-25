@@ -6,7 +6,7 @@ import queue
 
 # Sunucu ayarları
 UDP_IP = "127.0.0.1"
-UDP_PORT = 5005
+UDP_PORT = 5005 #alıcı ve verici portu için istenilen port numarası atanabilir.
 BUFFER_SIZE = 1024
 
 # Kullanıcı arayüzü oluşturma
